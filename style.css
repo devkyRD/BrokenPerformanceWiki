@@ -14,7 +14,13 @@
 
 }
 
+html {
+    min-height:100%;
+}
 
+body {
+    height:100%;
+}
 
 #buttonS:hover{
     transform:  scale(0.96);
