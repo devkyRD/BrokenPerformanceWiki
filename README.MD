@@ -7,3 +7,5 @@ IF YOU DONT FEEL COMFORTABLE EDITING THE WIKI MAKE A GROUP WITH EICK AND ME TO D
 other than that it should be p easy to edit stuff here
 
 https://devkyrd.github.io/BrokenPerformanceWiki/
+
+dont edit the readme plzz
