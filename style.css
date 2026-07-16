@@ -1,0 +1,22 @@
+#backgroundRedGrad {
+    background-image:linear-gradient(to bottom, rgb(109, 0, 0), black);
+    background-repeat: no-repeat;
+    inline-size: auto;
+    min-height: 100vh;
+    color: red;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+#buttonS{
+    transition: transform 0.5s;
+
+}
+
+
+
+#buttonS:hover{
+    transform:  scale(0.96);
+
+}
