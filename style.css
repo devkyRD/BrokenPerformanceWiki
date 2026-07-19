@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'broken-performance';
+    src: url('fonts/BrokenPerformanceFont.ttf');
+}
+
 #backgroundRedGrad {
     background-image:linear-gradient(to bottom, rgb(109, 0, 0), black);
     background-repeat: no-repeat;
@@ -16,6 +21,10 @@
 
 html {
     min-height:100%;
+}
+head {
+    font-family: "broken-performance", sans-serif;
+
 }
 
 body {
